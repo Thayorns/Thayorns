@@ -2,7 +2,7 @@
 
 [![Thayorns](https://github-readme-stats.vercel.app/api?username=Thayorns&show_icons=true&theme=default)](https://github.com/Thayorns)
 
-If you would like to suggest an open source project to contribute to, an internship, or give advice on learning, please message me:
+If you would like to suggest an open source project to contribute to, an internship, or make a job-offer please message me:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/@thayorn)
 [![Email](https://img.shields.io/badge/-Email-%23333?style=flat&logo=gmail)](mailto:thayornswordsman@gmail.com)
