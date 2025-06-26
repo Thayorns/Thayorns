@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Valentine, I am a beginner js developer and open source project contributor.
+I am a beginner js developer and open source project contributor.
 
 [![Thayorns](https://github-readme-stats.vercel.app/api?username=Thayorns&show_icons=true&theme=default)](https://github.com/Thayorns)
 
