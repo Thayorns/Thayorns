@@ -1,5 +1,4 @@
-## Hi there 🌌
-I am a beginner js developer and open source project contributor.
+## I am js developer and open source project contributor.
 
 [![Thayorns](https://github-readme-stats.vercel.app/api?username=Thayorns&show_icons=true&theme=default)](https://github.com/Thayorns)
 
@@ -37,7 +36,7 @@ If you would like to suggest an open source project to contribute to, an interns
 - **JavaScript Algorithms and Data Structures** - freeCodeCamp
 - **The Complete Web Developer Course** - Udemy
 
-
+🇷🇺
 
 
 <!--
