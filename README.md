@@ -1,6 +1,6 @@
 ### I am a js developer and open source contributor.
 
-[![Thayorns](https://github-readme-stats.vercel.app/api?username=Thayorns&show_icons=true&theme=radical)](https://github.com/Thayorns)
+[![Thayorns's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thayorns&count_private=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github.com/Thayorns)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thayorns&layout=compact&theme=radical)](https://github.com/Thayorns)
 
