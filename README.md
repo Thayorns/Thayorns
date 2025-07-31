@@ -1,8 +1,8 @@
 ### I am a js developer and open source contributor.
 
-[![Thayorns's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thayorns&count_private=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github.com/Thayorns)
+[![Thayorns's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thayorns&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/Thayorns)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thayorns&layout=compact&theme=radical)](https://github.com/Thayorns)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thayorns&layout=compact&theme=tokyonight)](https://github.com/Thayorns)
 
 If you have an open source project to contribute to, an internship, or a job offer, please email me:
 
