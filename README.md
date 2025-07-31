@@ -1,6 +1,6 @@
 ### I am a js developer and open source contributor.
 
-[![Thayorns](https://github-readme-stats.vercel.app/api?username=Thayorns&show_icons=true&theme=dark)](https://github.com/Thayorns)
+[![Thayorns](https://github-readme-stats.vercel.app/api?username=Thayorns&show_icons=true&theme=radical)](https://github.com/Thayorns)
 
 If you have an open source project to contribute to, an internship, or a job offer, please email me:
 
