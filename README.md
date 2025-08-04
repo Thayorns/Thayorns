@@ -6,7 +6,7 @@
 
 If you have an open source project to contribute to, an internship, or a job offer, please email me:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/thayorn)
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/@thayorn)
 [![Email](https://img.shields.io/badge/-Email-%23333?style=flat&logo=gmail)](mailto:thayornswordsman@gmail.com)
 
 #### 🛠️ Tech Stack
