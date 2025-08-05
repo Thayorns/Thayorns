@@ -1,15 +1,18 @@
-### I am a js developer and open source contributor.
+## I am a js developer and open source contributor.
 
-[![Thayorns's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thayorns&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/Thayorns)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Thayorns&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" width="80%"/>
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thayorns&layout=compact&theme=tokyonight" width="80%"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thayorns&layout=compact&theme=tokyonight)](https://github.com/Thayorns)
-
-If you have an open source project to contribute to, an internship, or a job offer, please email me:
+#### If you have an open source project to contribute to, an internship, or a job offer, please email me:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/@thayorn)
 [![Email](https://img.shields.io/badge/-Email-%23333?style=flat&logo=gmail)](mailto:thayornswordsman@gmail.com)
 
-#### 🛠️ Tech Stack
+##### 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -29,13 +32,13 @@ If you have an open source project to contribute to, an internship, or a job off
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-#### 📚 Education
+##### 📚 Education
 [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=flat&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/)
 [![MDN Web Docs](https://img.shields.io/badge/-MDN_Web_Docs-000000?style=flat&logo=mdn-web-docs&logoColor=white)](https://developer.mozilla.org/)
 [![Udemy](https://img.shields.io/badge/-Udemy-A435F0?style=flat&logo=udemy&logoColor=white)](https://www.udemy.com/)
 [![Stepik](https://img.shields.io/badge/-Stepik-01AF00?style=flat&logo=stepik&logoColor=white)](https://stepik.org/)
 
-#### Complited Courses
+##### Complited Courses
 - **JavaScript Algorithms and Data Structures** - freeCodeCamp
 - **The Complete Web Developer Course** - Udemy
 
