@@ -31,7 +31,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thayorns&layout=compact&theme=tokyonight" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thayorns&layout=compact&theme=tokyonight" width="80%"/>
 </p>
 
 <h4>Education</h4>
