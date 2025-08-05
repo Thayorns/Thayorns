@@ -1,6 +1,6 @@
-<h2 align="center">I am a js developer and open source contributor.</h2>
+<h2 align="left">I am a js developer and open source contributor.</h2>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Thayorns&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" width="80%"/>
 </p>
 
@@ -30,8 +30,8 @@
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thayorns&layout=compact&theme=tokyonight" width="80%"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thayorns&layout=compact&theme=tokyonight" width="50%"/>
 </p>
 
 <h4>Education</h4>
