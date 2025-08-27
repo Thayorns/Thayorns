@@ -1,7 +1,7 @@
 <h2 align="left">I am a js developer and open source contributor.</h2>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thayorns&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=moltack" width="80%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Thayorns&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" width="80%"/>
 </p>
 
 <h3>If you have an open source project to contribute to, an internship, or a job offer, please email me:</h3>
@@ -31,7 +31,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thayorns&layout=compact&hide_border=true&theme=moltack" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thayorns&layout=compact&hide_border=true&theme=tokyonight" width="50%"/>
 </p>
 
 <h4>Education</h4>
