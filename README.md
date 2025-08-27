@@ -3,7 +3,6 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Thayorns&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=moltack" width="80%"/>
 </p>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thayorns&theme=moltack)
 
 <h3>If you have an open source project to contribute to, an internship, or a job offer, please email me:</h3>
 
