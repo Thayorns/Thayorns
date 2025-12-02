@@ -9,7 +9,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/thayorn)
 [![Email](https://img.shields.io/badge/-Email-%23333?style=flat&logo=gmail)](mailto:thayornswordsman@gmail.com)
 
-<h4>Tech Stack</h4>
+<h4>Worked with</h4>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
