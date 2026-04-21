@@ -1,5 +1,7 @@
 <h2 align="left">I am a js developer and open source contributor.</h2>
 
+<p>I am currently working under <a href="https://www.zerocracy.com/">Zerocracy</a> management system</p>
+
 <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Thayorns&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" width="80%"/>
 
 <h3>If you have an open source project to contribute to, an internship, or a job offer, please email me:</h3>
@@ -39,19 +41,3 @@
 
 - **JavaScript Algorithms and Data Structures** - freeCodeCamp
 - **The Complete Web Developer Course** - Udemy
-
-
-<!--
-**Thayorns/Thayorns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
