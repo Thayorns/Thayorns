@@ -1,7 +1,7 @@
 <h2 align="left">I am a js developer and open source contributor.</h2>
 
 <p>I am currently working under <a href="https://www.zerocracy.com/">Zerocracy</a> management system</p><a href="https://www.zerocracy.com/cv/44">
-  <img src="https://www.zerocracy.com/badge/34168.svg" alt="Zerocracy profile badge" />
+  <img src="https://www.zerocracy.com/badge/44.svg" alt="Zerocracy profile badge" />
 </a>
 
 <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Thayorns&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" width="80%"/>
