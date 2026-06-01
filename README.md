@@ -1,7 +1,6 @@
 <h2 align="left">I am a js developer and open source contributor.</h2>
 
-<p>I am currently working under <a href="https://www.zerocracy.com/">Zerocracy</a> management system</p>
-<a href="https://www.zerocracy.com/cv/44">
+<p>I am currently working under <a href="https://www.zerocracy.com/">Zerocracy</a> management system</p><a href="https://www.zerocracy.com/cv/44">
   <img src="https://www.zerocracy.com/badge/34168.svg" alt="Zerocracy profile badge" />
 </a>
 
