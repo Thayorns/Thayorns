@@ -11,7 +11,7 @@ Looking for open source projects to contribute to, internships, or job opportuni
 
 Currently working under the [Zerocracy](https://www.zerocracy.com/) management system — a results-oriented, remote-first framework
 
-[![Zerocracy](https://www.zerocracy.com/badge/44.svg)](https://www.zerocracy.com/cv/44)
+[![Zerocracy thayorns badge](https://www.zerocracy.com/badge/44.svg)](https://www.zerocracy.com/cv/44)
 
 ---
 
